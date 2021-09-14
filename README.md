@@ -22,7 +22,7 @@ This project is my course project on Data Visualizations Lab. The project aims t
 * units
 * sf
 
-The code is written in a way that the libraries will be installed if they are not already present. In particular there is only one library that needs an explicit command on the R Markdown terminal if it throws an error while installation. The **rgdal** library may throw an **error** while installing. To tackle this extra dependencies needs to be installed through the R terminal. In the **R terminal** type the command **sudo apt-get install gdal-bin proj-bin libgdal-dev libproj-dev**.
+The code is written in a way that the libraries will be installed if they are not already present. In particular there is only one library that needs an explicit command on the R Markdown terminal if it throws an error while installation. The **rgdal** library may throw an **error** while installing. To tackle this, extra dependencies needs to be installed through the R terminal. In the **R terminal** type the command **sudo apt-get install gdal-bin proj-bin libgdal-dev libproj-dev**.
 
 ### Dataset :
 
